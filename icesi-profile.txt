@@ -1,0 +1,3 @@
+NOMBRE: Nikol Yuliana
+APELLIDO: Salamanca Chantre
+FECHA_DE_NACIMIENTO: 10/11/2005
